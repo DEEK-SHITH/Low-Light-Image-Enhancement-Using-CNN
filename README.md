@@ -63,3 +63,17 @@ Computer Science & Engineering
 SJB Institute of Technology
 
 Bengaluru
+
+## Results
+
+### Original Image
+
+![Original](Results/original.png)
+
+### Enhanced Image
+
+![Enhanced](Results/enhanced.png)
+
+### Comparison
+
+![Comparison](Results/comparison.png)
