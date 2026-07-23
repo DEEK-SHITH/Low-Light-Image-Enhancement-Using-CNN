@@ -84,7 +84,7 @@ This project presents a Lightweight U-Net (LLE-UNET) based deep learning model f
 
 ## 👨‍💻 Author
 
-**Deekshith Gowda B N**
+**Deekshith S**
 
 Computer Science and Engineering
 
