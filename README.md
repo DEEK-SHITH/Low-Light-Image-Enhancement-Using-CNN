@@ -56,7 +56,7 @@ The model successfully:
 
 ## 👨‍💻 Author
 
-**Deekshith Gowda B N**
+**Deekshith S**
 
 Computer Science & Engineering
 
