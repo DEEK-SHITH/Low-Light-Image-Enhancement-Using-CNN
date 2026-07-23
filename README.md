@@ -1,18 +1,19 @@
-# Low-Light Image Enhancement using CNN (LLE-UNET)
+# 🌙 Low-Light Image Enhancement using CNN (LLE-UNET)
 
 ## 📖 Project Overview
 
-This project enhances low-light images using a lightweight U-Net based Convolutional Neural Network (CNN). It improves image brightness, contrast, and visual quality, making it suitable for intelligent vehicle systems and computer vision applications.
+This project presents a Lightweight U-Net (LLE-UNET) based deep learning model for enhancing low-light images. The model improves image brightness, contrast, and visibility while preserving important details, making it suitable for intelligent vehicle systems and computer vision applications.
 
 ---
 
 ## 🚀 Features
 
-- Low-light image enhancement
-- CNN-based LLE-UNET model
-- Image quality improvement
+- Deep Learning based Low-Light Image Enhancement
+- Lightweight U-Net Architecture (LLE-UNET)
+- Better brightness and contrast
+- Preserves image details
 - Google Colab implementation
-- PSNR and SSIM evaluation
+- Performance comparison with AutoContrast
 
 ---
 
@@ -33,14 +34,32 @@ This project enhances low-light images using a lightweight U-Net based Convoluti
 
 ---
 
-## 📊 Results
+## 📸 Results
 
-The model successfully:
+### Example 1
 
-- Enhances image brightness
-- Improves contrast
-- Preserves image details
-- Produces visually clear outputs
+![Comparison 1](comparison1.png)
+
+---
+
+### Example 2
+
+![Comparison 2](comparison2.png)
+
+---
+
+### Example 3
+
+![Comparison 3](comparison3.png)
+
+---
+
+## 📈 Observations
+
+- The proposed LLE-UNET model significantly improves visibility in low-light images.
+- Better detail preservation than traditional AutoContrast.
+- Produces more natural brightness and color balance.
+- Suitable for real-time image enhancement applications.
 
 ---
 
@@ -49,31 +68,24 @@ The model successfully:
 1. Open `mp.ipynb` in Google Colab or Jupyter Notebook.
 2. Install the required libraries.
 3. Mount Google Drive.
-4. Load the dataset.
+4. Load the LOL dataset.
 5. Run all notebook cells.
+6. View the enhanced image outputs.
+
+---
+
+## 📚 Future Improvements
+
+- Real-time video enhancement
+- Mobile application deployment
+- Integration with Advanced Driver Assistance Systems (ADAS)
 
 ---
 
 ## 👨‍💻 Author
 
-**Deekshith S**
+**Deekshith Gowda B N**
 
-Computer Science & Engineering
+Computer Science and Engineering
 
-SJB Institute of Technology
-
-Bengaluru
-
-## Results
-
-### Original Image
-
-![Original](Results/original.png)
-
-### Enhanced Image
-
-![Enhanced](Results/enhanced.png)
-
-### Comparison
-
-![Comparison](Results/comparison.png)
+SJB Institute of Technology, Bengaluru
