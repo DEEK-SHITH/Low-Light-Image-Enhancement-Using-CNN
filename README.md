@@ -36,21 +36,11 @@ This project presents a Lightweight U-Net (LLE-UNET) based deep learning model f
 
 ## 📸 Results
 
-### Example 1
+![Comparison 1](Results/comparison1.png)
 
-![Comparison 1](comparison1.png)
+![Comparison 2](Results/comparison2.png)
 
----
-
-### Example 2
-
-![Comparison 2](comparison2.png)
-
----
-
-### Example 3
-
-![Comparison 3](comparison3.png)
+![Comparison 3](Results/comparison3.png)
 
 ---
 
